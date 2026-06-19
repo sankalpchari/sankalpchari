@@ -14,7 +14,7 @@ Strong advocate for Infrastructure as Code (IaC) and security-first development.
 ---
 
 ## Technical Skills
-**Backend:** Node.js, Express, NestJS, Laravel, Python, PHP, REST APIs, GraphQL (Apollo)  
+**Backend:** Node.js, Express, PHP, REST APIs
 
 **Cloud & DevOps:** AWS (Lambda, CDK, S3, DynamoDB, API Gateway), Serverless Architecture, CI/CD, Git  
 
